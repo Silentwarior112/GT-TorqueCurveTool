@@ -3,6 +3,10 @@ Google Sheets that has been set up to make editing ENGINE data in Gran Turismo g
 Simply Click the link, then go to "File" --> "Make a Copy" to get it for yourself.
 Unfortunately you HAVE to have a google account though. Trying to export it into any other format just breaks the graphs and formulas.
 
+Important: Usage of this tool largely consists of copy and paste inputs. When pasting, ALWAYS use CTRL+SHIFT+V (Paste values only).
+The standard CTRL+V will paste the formulas, not the values.
+
+
 -- Links --
 
 Gran Turismo 1
