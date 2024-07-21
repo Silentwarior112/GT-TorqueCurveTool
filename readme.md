@@ -8,7 +8,7 @@ Features:
 
   - Convert various measurements into HP and kgf/cm
 
-  - Import ENGINE entries from the Spec Database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
+  - Import entries from the corresponding game's engine database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
 
   - Export inputted data into an ENGINE entry
 
