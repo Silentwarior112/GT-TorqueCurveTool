@@ -8,7 +8,7 @@ Unfortunately you HAVE to have a google account though. Trying to export it into
 Gran Turismo 1
 (Sample data from GT1 is needed)
 
-[Gran Turismo 2 Torque curve tool](https://docs.google.com/spreadsheets/d/1LudIeYgtRCnuam24pWde5JJC1bJ67J_O4vvm6e0Dqvk/edit?gid=449075534#gid=449075534)  <img width="50" height="50" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt2icon.png">
+[Gran Turismo 2 Torque curve tool](https://docs.google.com/spreadsheets/d/1LudIeYgtRCnuam24pWde5JJC1bJ67J_O4vvm6e0Dqvk/edit?gid=449075534#gid=449075534)  <img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt2icon.png">
 
 
 [Gran Turismo 3 Torque curve tool](https://docs.google.com/spreadsheets/d/1Xx33vf3UZDkyDxvymt0LmKsys_9GyIPSuUOS93iPX8Y/edit?gid=449075534#gid=449075534)
