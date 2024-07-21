@@ -2,14 +2,21 @@ Google Sheets that has been set up to make editing ENGINE data in Gran Turismo g
 
 Features:
 
-Visualized torque curve that updates in real-time
-Generate a torque curve inputting only HP @ x RPM
-Convert various measurements into HP and kgf/cm
-Import ENGINE entries from the Spec Database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
-Export inputted data into an ENGINE entry
-Manual torque curve editor
-Torque Curve Scaler
-100% accuracy, guaranteed. What you see here is what you will see in-game.
+  Visualized torque curve that updates in real-time
+
+  Generate a torque curve inputting only HP @ x RPM
+
+  Convert various measurements into HP and kgf/cm
+
+  Import ENGINE entries from the Spec Database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
+
+  Export inputted data into an ENGINE entry
+
+  Manual torque curve editor
+
+  Torque Curve Scaler
+
+  100% accuracy, guaranteed. What you see here is what you will see in-game.
 
 
 --
