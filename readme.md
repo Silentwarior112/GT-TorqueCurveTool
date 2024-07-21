@@ -40,6 +40,18 @@ Features:
 <p align="center">
   <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/manual.png">
 </p>
+  - Full engine database sample data from each corresponding game
+<p align="center">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/samples.png">
+</p>
+  - Import entries from the corresponding game's engine database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
+<p align="center">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/import.png">
+</p>
+  - Torque Curve Scaler
+<p align="center">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/scaler.png">
+</p>
   - Generate a torque curve inputting only HP @ x RPM
 <p align="center">
   <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/onlyhp_rpm.png">
@@ -48,17 +60,9 @@ Features:
 <p align="center">
   <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/convert.png">
 </p>
-  - Import entries from the corresponding game's engine database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
-<p align="center">
-  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/import.png">
-</p>
   - Export inputted data into an ENGINE entry
 <p align="center">
   <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/export.png">
-</p>
-  - Torque Curve Scaler
-<p align="center">
-  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/scaler.png">
 </p>
   - 100% accuracy, guaranteed. What you see here is what you will see in-game.
 
