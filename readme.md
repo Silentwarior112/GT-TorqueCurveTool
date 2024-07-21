@@ -4,7 +4,7 @@ Features:
 
   - Visualized torque curve that updates in real-time
 <p align="center">
-  <img width="0" height="0" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/import.png">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/import.png">
 </p>
   - Generate a torque curve inputting only HP @ x RPM
 <p align="center">
