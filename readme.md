@@ -11,22 +11,22 @@ Gran Turismo 1
 <img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt2icon.png"> [Gran Turismo 2 Torque curve tool](https://docs.google.com/spreadsheets/d/1LudIeYgtRCnuam24pWde5JJC1bJ67J_O4vvm6e0Dqvk/edit?gid=449075534#gid=449075534)  
 
 
-[Gran Turismo 3 Torque curve tool](https://docs.google.com/spreadsheets/d/1Xx33vf3UZDkyDxvymt0LmKsys_9GyIPSuUOS93iPX8Y/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt3icon.png">[Gran Turismo 3 Torque curve tool](https://docs.google.com/spreadsheets/d/1Xx33vf3UZDkyDxvymt0LmKsys_9GyIPSuUOS93iPX8Y/edit?gid=449075534#gid=449075534)
 
 
-[Gran Turismo 4 Torque curve tool](https://docs.google.com/spreadsheets/d/15Te-tS-5UlawTXekk3lKHUKo2CzNW_N4e9940TE6SsQ/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt4icon.png">[Gran Turismo 4 Torque curve tool](https://docs.google.com/spreadsheets/d/15Te-tS-5UlawTXekk3lKHUKo2CzNW_N4e9940TE6SsQ/edit?gid=449075534#gid=449075534)
 
 
-[Tourist Trophy Torque curve tool](https://docs.google.com/spreadsheets/d/1lnImCNuh94tisgg6zrEBoEcUwWEFl8pGBl2kyKELJSU/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/tticon.png">[Tourist Trophy Torque curve tool](https://docs.google.com/spreadsheets/d/1lnImCNuh94tisgg6zrEBoEcUwWEFl8pGBl2kyKELJSU/edit?gid=449075534#gid=449075534)
 
 
-[Gran Turismo PSP Torque curve tool](https://docs.google.com/spreadsheets/d/1_XHsuc0ecvVuDRK88aSvj05jRE3C0kFYPgu3jA4d6Uo/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt4icon.png">[Gran Turismo PSP Torque curve tool](https://docs.google.com/spreadsheets/d/1_XHsuc0ecvVuDRK88aSvj05jRE3C0kFYPgu3jA4d6Uo/edit?gid=449075534#gid=449075534)
 
 
-[Gran Turismo 5 Torque curve tool](https://docs.google.com/spreadsheets/d/1eFpkf3pYLs16dvfsITYXPZzanKDj8nE9ZTWdHX_UlkM/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt5icon.png">[Gran Turismo 5 Torque curve tool](https://docs.google.com/spreadsheets/d/1eFpkf3pYLs16dvfsITYXPZzanKDj8nE9ZTWdHX_UlkM/edit?gid=449075534#gid=449075534)
 
 
-[Gran Turismo 6 Torque curve tool](https://docs.google.com/spreadsheets/d/1JWRrS84AbJrQmcM4LRqBVoJJTmeTk846QUP-U4B9ztY/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt6icon.png">[Gran Turismo 6 Torque curve tool](https://docs.google.com/spreadsheets/d/1JWRrS84AbJrQmcM4LRqBVoJJTmeTk846QUP-U4B9ztY/edit?gid=449075534#gid=449075534)
 
 ----------------
 
