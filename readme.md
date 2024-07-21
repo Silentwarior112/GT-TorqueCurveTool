@@ -8,11 +8,11 @@ Features:
 </p>
   - Generate a torque curve inputting only HP @ x RPM
 <p align="center">
-  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/import.png">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/onlyhp_rpm.png">
 </p>
   - Convert various measurements into HP and kgf/cm
 <p align="center">
-  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/onlyhp_rpm.png">
+  <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/convert.png">
 </p>
   - Import entries from the corresponding game's engine database and get exact specs and visualized torque curve, see discrepancies between display stats and performance stats
 <p align="center">
