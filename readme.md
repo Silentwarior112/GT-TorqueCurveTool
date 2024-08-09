@@ -6,6 +6,11 @@ Unfortunately you HAVE to have a google account though. Trying to export it into
 Important: Usage of this tool largely consists of copy and paste actions. When pasting, ALWAYS use CTRL+SHIFT+V (Paste values only).
 The standard CTRL+V will paste the formulas, not the values.
 
+Updates:
+
+8/9/2024:
+Improved the graph, it now displays torque curves with uneven RPM mappings correctly
+
 
 -- Links --
 
