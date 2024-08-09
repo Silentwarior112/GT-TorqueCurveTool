@@ -1,4 +1,4 @@
-Google Sheets that has been set up to make editing ENGINE data in Gran Turismo games easier.
+Google Sheets that have been set up to make editing ENGINE data in Gran Turismo games easier.
 
 Simply Click the link, then go to "File" --> "Make a Copy" to get it for yourself.
 Unfortunately you HAVE to have a google account though. Trying to export it into any other format just breaks the graphs and formulas.
