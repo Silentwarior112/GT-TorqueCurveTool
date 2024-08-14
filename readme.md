@@ -15,7 +15,7 @@ Improved the graph, it now displays torque curves with uneven RPM mappings corre
 
 8/14/2024:
 
-Added UI redline start calculator and Fuel cut RPM calculator
+Added UI redline start calculator and Fuel cut RPM calculator for GT3 and GT4
 
 Added more export formats: Comma separated values wrapped in quotes, and comma separated values
 
