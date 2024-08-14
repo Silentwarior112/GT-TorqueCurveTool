@@ -12,6 +12,7 @@ Updates:
 Improved the graph, it now displays torque curves with uneven RPM mappings correctly
 
 8/14/2024:
+Added UI redline start calculator and Fuel cut RPM calculator
 Added more export formats: Comma separated values wrapped in quotes, and comma separated values
 Minor graph fixes
 
