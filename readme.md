@@ -11,6 +11,10 @@ Updates:
 8/9/2024:
 Improved the graph, it now displays torque curves with uneven RPM mappings correctly
 
+8/14/2024:
+Added more export formats: Comma separated values wrapped in quotes, and comma separated values
+Minor graph fixes
+
 
 -- Links --
 
