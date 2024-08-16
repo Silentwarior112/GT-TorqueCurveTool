@@ -51,7 +51,7 @@ Gran Turismo 1
 
 Features:
 
-  - Visualized torque curve that updates in real-time
+  - Visualized torque curve
 <p align="center">
   <img src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/manual.png">
 </p>
