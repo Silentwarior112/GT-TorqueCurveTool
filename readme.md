@@ -8,6 +8,9 @@ The standard CTRL+V will paste the formulas, not the values.
 
 Updates:
 
+9/18/2024:
+Added UI redline start calculator and Fuel cut RPM calculator to exporter tab for GT2 Torque Curve tool
+
 8/9/2024:
 
 Improved the graph, it now displays torque curves with uneven RPM mappings correctly
