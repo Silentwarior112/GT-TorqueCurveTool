@@ -9,7 +9,7 @@ The standard CTRL+V will paste the formulas, not the values.
 Updates:
 
 9/19/2024:
-Added Car name database that directly links to the corresponding entry in the Engine Database
+Added Car name database that directly links to the corresponding entry in the Engine Database for GT2
 
 9/18/2024:
 Added UI redline start calculator and Fuel cut RPM calculator to exporter tab for GT2 Torque Curve tool
