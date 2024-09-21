@@ -10,6 +10,7 @@ Updates:
 
 9/20/2024:
 Added tachometer reference sheet and validity checks to exporter tab for GT3
+Added validity checks to exporter tab for GT4
 
 9/19/2024:
 Added Car name database that directly links to the corresponding entry in the Engine Database for GT2
