@@ -8,6 +8,9 @@ The standard CTRL+V will paste the formulas, not the values.
 
 Updates:
 
+4/13/2025:
+Added GTC engine data for GT3
+
 9/20/2024:
 Added tachometer reference sheet and validity checks to exporter tab for GT3
 Added validity checks to exporter tab for GT4
@@ -41,7 +44,7 @@ Gran Turismo 1
 <img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt2icon.png"> [Gran Turismo 2 Torque curve tool](https://docs.google.com/spreadsheets/d/1LudIeYgtRCnuam24pWde5JJC1bJ67J_O4vvm6e0Dqvk/edit?gid=449075534#gid=449075534)  
 
 
-<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt3icon.png">[Gran Turismo 3 Torque curve tool](https://docs.google.com/spreadsheets/d/1Xx33vf3UZDkyDxvymt0LmKsys_9GyIPSuUOS93iPX8Y/edit?gid=449075534#gid=449075534)
+<img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt3icon.png">[Gran Turismo 3 / Concept Torque curve tool](https://docs.google.com/spreadsheets/d/1Xx33vf3UZDkyDxvymt0LmKsys_9GyIPSuUOS93iPX8Y/edit?gid=449075534#gid=449075534)
 
 
 <img width="71" height="41" src="https://github.com/Silentwarior112/GT-TorqueCurveTool/blob/main/pics/gt4icon.png">[Gran Turismo 4 Torque curve tool](https://docs.google.com/spreadsheets/d/15Te-tS-5UlawTXekk3lKHUKo2CzNW_N4e9940TE6SsQ/edit?gid=449075534#gid=449075534)
